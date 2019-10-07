@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/Home/index.tsx"],"names":["Home"],"mappings":"0FACA,oBAEeA,YAAf","file":"component---src-pages-home-index-tsx-a5f797bee94a6cd4b9b2.js","sourcesContent":["\nimport Home from './Home';\n\nexport default Home;\n"],"sourceRoot":""}
